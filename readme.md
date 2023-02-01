@@ -1,4 +1,4 @@
-# Anomaly Detection Using CNN based AutoEndoders
+# Anomaly Detection Using CNN based AutoEncoders
 
 ## Setup
 
